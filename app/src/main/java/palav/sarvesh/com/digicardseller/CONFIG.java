@@ -5,6 +5,8 @@ package palav.sarvesh.com.digicardseller;
  */
 public class CONFIG {
 
+    public int test;
+
 
 
     public static String REGISTER_URL="";
